@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⭐ PineapplePatrick ⭐ </h1>
-  <h3> Full stack Java and Typescript developer from Germany</h3>
+  <h3> Full stack Java and Go developer from Germany</h3>
 <img src="https://img.shields.io/badge/Discord-AtomicCoconut%239411-green">
 	
 <h3> Frontend technologies </h3>
@@ -9,8 +9,6 @@
 <img height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />
 <img height="30" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" alt="Vue.js" title="Vue.js" />
 <img height="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript" />
-<img height="30" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="Dart" title="Dart" />
-<img height="30" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" alt="Flutter" title="Flutter" />
 </div>
 
 <h3> Backend technologies </h3>
