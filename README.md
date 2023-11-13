@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⭐ AtomicCoconut ⭐ </h1>
+  <h1>⭐ PineapplePatrick ⭐ </h1>
   <h3> Full stack Java and Typescript developer from Germany</h3>
 <img src="https://img.shields.io/badge/Discord-AtomicCoconut%239411-green">
 	
