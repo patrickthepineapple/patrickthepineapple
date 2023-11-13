@@ -46,5 +46,5 @@
 <img height="30" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux" />
 </div>
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=atomiccoconut">
+<img src="https://github-readme-stats.vercel.app/api?username=patrickthepineapple">
 </div>
