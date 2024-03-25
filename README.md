@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>⭐ PineapplePatrick ⭐ </h1>
-  <h3> Full stack Java and Go developer from Germany</h3>
+  <h1>⭐ Amraleth ⭐ </h1>
+  <h3> Backend Java and Go developer from Germany</h3>
 <img src="https://img.shields.io/badge/Discord-pthepineapple-green">
 	
 <h3> Frontend technologies </h3>
